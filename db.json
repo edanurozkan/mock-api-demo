@@ -1,116 +1,206 @@
 {
   "announcements": [
     {
-      "title": "title 1",
-      "description": "description 1",
-      "announcementDate": 1751878012,
-      "applicationDeadline": 1751878012,
-      "imageUrl": "imageUrl 1",
-      "link": "link 1",
-      "eligibleInstitution": [],
-      "projectDuration": "projectDuration 1",
-      "budgetSupport": "budgetSupport 1",
-      "applicationLanguage": "applicationLanguage 1",
-      "sectors": [],
-      "id": "1"
-    },
-    {
-      "title": "title 2",
-      "description": "description 2",
-      "announcementDate": 1751877952,
-      "applicationDeadline": 1751877952,
-      "imageUrl": "imageUrl 2",
-      "link": "link 2",
-      "eligibleInstitution": [],
-      "projectDuration": "projectDuration 2",
-      "budgetSupport": "budgetSupport 2",
-      "applicationLanguage": "applicationLanguage 2",
-      "sectors": [],
-      "id": "2"
-    },
-    {
-      "title": "title 3",
-      "description": "description 3",
-      "announcementDate": 1751877892,
-      "applicationDeadline": 1751877892,
-      "imageUrl": "imageUrl 3",
-      "link": "link 3",
-      "eligibleInstitution": [],
-      "projectDuration": "projectDuration 3",
-      "budgetSupport": "budgetSupport 3",
-      "applicationLanguage": "applicationLanguage 3",
-      "sectors": [],
-      "id": "3"
-    },
-    {
-      "title": "title 4",
-      "description": "description 4",
-      "announcementDate": 1751877832,
-      "applicationDeadline": 1751877832,
-      "imageUrl": "imageUrl 4",
-      "link": "link 4",
-      "eligibleInstitution": [],
-      "projectDuration": "projectDuration 4",
-      "budgetSupport": "budgetSupport 4",
-      "applicationLanguage": "applicationLanguage 4",
-      "sectors": [],
-      "id": "4"
-    },
-    {
-      "title": "title 5",
-      "description": "description 5",
-      "announcementDate": 1751877772,
-      "applicationDeadline": 1751877772,
-      "imageUrl": "imageUrl 5",
-      "link": "link 5",
-      "eligibleInstitution": [],
-      "projectDuration": "projectDuration 5",
-      "budgetSupport": "budgetSupport 5",
-      "applicationLanguage": "applicationLanguage 5",
-      "sectors": [],
-      "id": "5"
-    },
-    {
-      "title": "title 6",
-      "description": "description 6",
-      "announcementDate": 1751877712,
-      "applicationDeadline": 1751877712,
-      "imageUrl": "imageUrl 6",
-      "link": "link 6",
-      "eligibleInstitution": [],
-      "projectDuration": "projectDuration 6",
-      "budgetSupport": "budgetSupport 6",
-      "applicationLanguage": "applicationLanguage 6",
-      "sectors": [],
-      "id": "6"
-    },
-    {
-      "title": "title 7",
-      "description": "description 7",
-      "announcementDate": 1751877743,
-      "applicationDeadline": 1751877743,
-      "imageUrl": "imageUrl 7",
-      "link": "link 7",
-      "eligibleInstitution": [],
-      "projectDuration": "projectDuration 7",
-      "budgetSupport": "budgetSupport 7",
-      "applicationLanguage": "applicationLanguage 7",
-      "sectors": [],
-      "id": "7"
-    },
-    {
-      "title": "title 8",
-      "description": "description 8",
-      "announcementDate": 1751877683,
-      "applicationDeadline": 1751877683,
-      "imageUrl": "imageUrl 8",
-      "link": "link 8",
-      "eligibleInstitution": [],
-      "projectDuration": "projectDuration 8",
-      "budgetSupport": "budgetSupport 8",
-      "applicationLanguage": "applicationLanguage 8",
-      "sectors": [],
-      "id": "8"
-    }
+    "id": 1,
+    "title": "FARMAGE Project Funding Opportunity",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "announcementDate": "2025-04-17",
+    "applicationDeadline": "2025-07-14",
+    "imageUrl": "https://source.unsplash.com/featured/300x400?education",
+    "link": "https://example.com/apply/261",
+    "eligibleInstitution": [
+      "Universities",
+      "Non-Profits",
+      "Research Centers"
+    ],
+    "projectDuration": "1 year",
+    "budgetSupport": "Up to €50,000",
+    "applicationLanguage": "Turkish",
+    "sectors": [
+      "Defense"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "ACIUM Project Funding Opportunity",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat  ",
+    "announcementDate": "2023-05-23",
+    "applicationDeadline": "2025-07-18",
+    "imageUrl": "https://source.unsplash.com/featured/300x200?startup",
+    "link": "https://example.com/apply/427",
+    "eligibleInstitution": [
+      "Universities",
+      "Universities",
+      "SMEs"
+    ],
+    "projectDuration": "1 year",
+    "budgetSupport": "Up to €50,000",
+    "applicationLanguage": "French",
+    "sectors": [
+      "Blockchain",
+      "AI",
+      "Healthcare"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FLUM Project Funding Opportunity",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas. ",
+    "announcementDate": "2025-04-17",
+    "applicationDeadline": "2025-03-05",
+    "imageUrl": "https://source.unsplash.com/featured/300x400?education",
+    "link": "https://example.com/apply/309",
+    "eligibleInstitution": [
+      "Research Centers",
+      "SMEs",
+      "Startups"
+    ],
+    "projectDuration": "3 years",
+    "budgetSupport": "Over €1M",
+    "applicationLanguage": "German",
+    "sectors": [
+      "Agriculture",
+      "Healthcare",
+      "Healthcare"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "PARCOE Project Funding Opportunity",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat  ",
+    "announcementDate": "2025-07-11",
+    "applicationDeadline": "2025-08-27",
+    "imageUrl": "https://source.unsplash.com/featured/300x200?startup",
+    "link": "https://example.com/apply/288",
+    "eligibleInstitution": [
+      "Startups",
+      "Research Centers"
+    ],
+    "projectDuration": "2 years",
+    "budgetSupport": "€200,000 - €500,000",
+    "applicationLanguage": "German",
+    "sectors": [
+      "Agriculture",
+      "Agriculture",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "BEADZZA Project Funding Opportunity",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+    "announcementDate": "2023-03-31",
+    "applicationDeadline": "2025-10-07",
+    "imageUrl": "https://source.unsplash.com/featured/300x400?education",
+    "link": "https://example.com/apply/310",
+    "eligibleInstitution": [
+      "Non-Profits"
+    ],
+    "projectDuration": "2 years",
+    "budgetSupport": "€200,000 - €500,000",
+    "applicationLanguage": "English",
+    "sectors": [
+      "Fintech",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "CODACT Project Funding Opportunity",
+    "description": "Lorem ipsum dolor sit amet.",
+    "announcementDate": "2025-07-11",
+    "applicationDeadline": "2025-11-10",
+    "imageUrl": "https://source.unsplash.com/featured/300x200?technology",
+    "link": "https://example.com/apply/240",
+    "eligibleInstitution": [
+      "Research Centers",
+      "Universities"
+    ],
+    "projectDuration": "2 years",
+    "budgetSupport": "Over €1M",
+    "applicationLanguage": "Turkish",
+    "sectors": [
+      "Blockchain",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "UTARIAN Project Funding Opportunity",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.",
+    "announcementDate": "2023-07-28",
+    "applicationDeadline": "2025-07-21",
+    "imageUrl": "https://source.unsplash.com/featured/400x200?business",
+    "link": "https://example.com/apply/437",
+    "eligibleInstitution": [
+      "Startups"
+    ],
+    "projectDuration": "3 years",
+    "budgetSupport": "Up to €100,000",
+    "applicationLanguage": "French",
+    "sectors": [
+      "Education",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "KIGGLE Project Funding Opportunity",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie.",
+    "announcementDate": "2023-12-29",
+    "applicationDeadline": "2025-01-05",
+    "imageUrl": "https://source.unsplash.com/featured/300x300?grant",
+    "link": "https://example.com/apply/637",
+    "eligibleInstitution": [
+      "SMEs",
+      "SMEs"
+    ],
+    "projectDuration": "2 years",
+    "budgetSupport": "Over €1M",
+    "applicationLanguage": "French",
+    "sectors": [
+      "Agriculture",
+      "AI"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "COWTOWN Project Funding Opportunity",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.",
+    "announcementDate": "2024-12-22",
+    "applicationDeadline": "2025-09-05",
+    "imageUrl": "https://source.unsplash.com/featured/300x300?grant",
+    "link": "https://example.com/apply/942",
+    "eligibleInstitution": [
+      "Startups",
+      "Universities"
+    ],
+    "projectDuration": "3 years",
+    "budgetSupport": "Up to €100,000",
+    "applicationLanguage": "French",
+    "sectors": [
+      "Education"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "VERBUS Project Funding Opportunity",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.",
+    "announcementDate": "2023-03-07",
+    "applicationDeadline": "2025-09-09",
+    "imageUrl": "https://source.unsplash.com/featured/300x300?grant",
+    "link": "https://example.com/apply/583",
+    "eligibleInstitution": [
+      "Startups"
+    ],
+    "projectDuration": "6 months",
+    "budgetSupport": "€200,000 - €500,000",
+    "applicationLanguage": "French",
+    "sectors": [
+      "Defense",
+      "Energy"
+    ]
+  }
   ]
 }
